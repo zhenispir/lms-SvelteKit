@@ -14,7 +14,7 @@
 </script>
 
 <div>
-	<h1 class="py-5 text-center text-2xl font-semibold">Welcome to s-u-c</h1>
+	<h1 class="py-5 text-center text-2xl font-semibold">Welcome to ZorCode</h1>
 	<form method="POST" action="/login" use:enhance>
 		<Form.Field {form} name="email">
 			<Form.Control let:attrs>

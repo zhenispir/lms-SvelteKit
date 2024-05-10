@@ -1,3 +1,3 @@
 <div>
-	<img src="/logoWithLarry.svg" class="" alt="" />
+	<img src="/ZorCodeLogo.png" class="" alt="" />
 </div>
